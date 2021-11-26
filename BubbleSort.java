@@ -1,7 +1,7 @@
 /*
  *Copyright (c) 2021 Chun-Chen,Yeh - All Rights Reserved 
 */
-package chap7;
+package lab01;
 import org.junit.jupiter.api.*;
 /**
  *  @author   ChunChenYeh
