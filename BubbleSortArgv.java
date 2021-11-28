@@ -6,7 +6,7 @@ package chap7;
  *  @author   ChunChenYeh
  *  開發日期:  Nov 28, 2021
 */
-public class Exercise8 {
+public class BubbleSortArgv {
 	public static void main(String[] argv) {
 		int[] numbers = new int[argv.length];
 		for(int i=0;i<argv.length;i++) {
